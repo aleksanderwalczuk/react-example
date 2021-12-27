@@ -1,0 +1,2 @@
+export const SET_LAST_COUNT = "SET_LAST_COUNT";
+export const CLEAR_LAST_COUNT = "CLEAR_LAST_COUNT";
